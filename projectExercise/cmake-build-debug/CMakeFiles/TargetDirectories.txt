@@ -1,0 +1,3 @@
+/Users/masneltefiang/Desktop/Desktop - Ace/CMU/DSA/ytefiang/projectExercise/cmake-build-debug/CMakeFiles/practiceExercise.dir
+/Users/masneltefiang/Desktop/Desktop - Ace/CMU/DSA/ytefiang/projectExercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/masneltefiang/Desktop/Desktop - Ace/CMU/DSA/ytefiang/projectExercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
