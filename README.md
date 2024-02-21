@@ -7,12 +7,6 @@
 
 This program reads scanpaths from `input.txt`, processes fixation points, and generates an `output.txt` with formatted fixation point data. It ensures that there are no duplicate fixation points.
 
-## Steps to Run the Codes
-
-1. `cmake .`
-2. `make`
-3. `cd bin/`
-4. `./practiceExercise`
 
 ## Testing Strategy
 
@@ -26,7 +20,7 @@ This program reads scanpaths from `input.txt`, processes fixation points, and ge
 The first line contains an integer N (1 <= N <= 10) indicating the number of test cases. Each test case consists of fixation points with three numbers: fixation point number, x coordinate, and y coordinate. The end of each set is marked by (-1, -1). Fixation points are assumed to be valid with coordinates in the range 0 <= x, y <= 2000.
 
 - **Output Format:**  
-The program outputs my Andrew ID (ytefiang) at the beginning. For each test case, it writes a sequence of three numbers: unique fixation point identification number, x coordinate, and y coordinate. No terminating fixation point is included, and there are no duplicate fixation points. Fixation points are listed in ascending order by identification number. Each list is terminated by a line of dashes.
+The program outputs "ytefiang" at the beginning. For each test case, it writes a sequence of three numbers: unique fixation point identification number, x coordinate, and y coordinate. No terminating fixation point is included, and there are no duplicate fixation points. Fixation points are listed in ascending order by identification number. Each list is terminated by a line of dashes.
 
 ## Solution Strategy
 
